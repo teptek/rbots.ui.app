@@ -1,0 +1,2 @@
+webpackJsonp([35],{812:function(n,e,t){var o=t(15),a=t(45),i=t(289).PageRenderer;i.__esModule&&(i=i.default);var r=a({displayName:"WrappedPageRenderer",getInitialState:function(){return{content:t(848)}},componentWillMount:function(){},render:function(){return o.createElement(i,Object.assign({},this.props,{content:this.state.content}))}});r.__catalog_loader__=!0,n.exports=r},848:function(n,e){n.exports='```html\nshowSource: 1\n---\n\n<div class="ico-bg">\n    <i class="ico-validation ico-green"></i>\n</div>\n\n\n```\n'}});
+//# sourceMappingURL=35.d7410ecb.chunk.js.map
